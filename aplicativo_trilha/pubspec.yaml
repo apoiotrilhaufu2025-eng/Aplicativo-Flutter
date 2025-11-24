@@ -1,0 +1,106 @@
+name: aplicativo_trilha
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  
+  cupertino_icons: ^1.0.8
+  mqtt_client: ^10.11.1
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  nfc_manager: ^4.1.1
+  mobile_scanner: ^7.1.2
+  location: ^8.0.1
+  flutter_compass: ^0.8.1
+  connectivity_plus: ^7.0.0
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.1
+  http: ^1.5.0
+  image_picker: ^1.2.0
+  flutter_secure_storage: ^9.2.4
+  lottie: ^3.3.2
+  geolocator: ^14.0.2
+  nfc_manager_ndef: ^1.1.0
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^6.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/animations/
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
